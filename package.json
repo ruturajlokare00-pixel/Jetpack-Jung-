@@ -1,0 +1,9 @@
+{
+  "name": "jetpack-jung",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Jetpack Jung 2D shooter with multiplayer relay",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
